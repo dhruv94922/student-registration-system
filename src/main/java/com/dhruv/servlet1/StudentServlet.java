@@ -18,8 +18,8 @@ public class StudentServlet extends HttpServlet {
 
     private static final String DBURL =
             "jdbc:mysql://localhost:3306/Servlet";
-    private static final String DBUSERNAME = "root";
-    private static final String DBPASSWORD = "1234";
+    private static final String DBUSERNAME = "****";
+    private static final String DBPASSWORD = "****";
 
    
 
